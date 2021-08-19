@@ -6,6 +6,7 @@
 
 * [Installation](getting-started/installation.md)
 * [Headless Commerce](getting-started/headless-commerce.md)
+* [API Reference](https://api.spreecommerce.org)
 
 ## ⚙️Internals
 
@@ -89,4 +90,11 @@
 * [General guidelines](contributing/index.md)
 * [Developing Spree](contributing/developing_spree.md)
 * [Upgrading extensions](contributing/upgrading_extensions.md)
+
+## 🤝Support
+
+---
+
+* [Core Team support](https://spreecommerce.org/contact)
+* [Slack Community](https://slack.spreecommerce.org)
 
